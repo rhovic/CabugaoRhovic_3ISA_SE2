@@ -1,0 +1,20 @@
+{
+  "name": "SE2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app1.js",
+  "scripts": {
+    "start": "node app2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhovic/CabugaoRhovic_3ISA_SE2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhovic/CabugaoRhovic_3ISA_SE2/issues"
+  },
+  "homepage": "https://github.com/rhovic/CabugaoRhovic_3ISA_SE2#readme"
+}
